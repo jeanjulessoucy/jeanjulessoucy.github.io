@@ -10,11 +10,11 @@ menu_settings:
     - title: 'Oeuvres'
       url: '/'
     - title: 'Parutions'
-      url: '/parutions/'
+      url: '/parutions'
     - title: 'Film & vidéo'
-      url: '/film-video/'
+      url: '/film-video'
     - title: 'CV'
-      url: '/cv/'
+      url: '/cv'
 
 footer_settings:
   logo_image:
