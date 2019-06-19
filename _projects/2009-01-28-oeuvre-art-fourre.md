@@ -5,3 +5,5 @@ featured_image: '/images/08a_SoucyJJ_Darfour.jpg'
 ---
 
 ![](/images/08a_SoucyJJ_Darfour.jpg)
+
+« L’œuvre d’art fourre », 2009, impression numérique, Le Lieu, Québec.

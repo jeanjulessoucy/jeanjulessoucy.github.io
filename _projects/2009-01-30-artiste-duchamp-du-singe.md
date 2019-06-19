@@ -5,3 +5,5 @@ featured_image: '/images/06a_SoucyJJ_LArtiste_Duchamp_du_singe_1_2008.jpg'
 ---
 
 ![](/images/06a_SoucyJJ_LArtiste_Duchamp_du_singe_1_2008.jpg)
+
+« L’artiste Duchamp du singe (1) », 2009, extrait d’un triptyque, impressions numériques, Le Lieu, Québec.

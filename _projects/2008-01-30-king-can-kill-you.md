@@ -5,3 +5,5 @@ featured_image: '/images/09a_SoucyJJ_smoKING_CAN_KILL_YOU.jpg'
 ---
 
 ![](/images/09a_SoucyJJ_smoKING_CAN_KILL_YOU.jpg)
+
+« king can kill you », 2008, impression numérique, Séquence, Chicoutimi.
