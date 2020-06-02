@@ -6,4 +6,4 @@ featured_image: '/images/05a_SoucyJJ_Lettre_Steve_Job.jpg'
 
 ![](/images/05a_SoucyJJ_Lettre_Steve_Job.jpg)
 
-« Lettre à Steve Jobs, Apple, Californie », 2010.
+Jean-Jules Soucy, « Lettre à Steve Jobs, Apple, Californie », 2010.
