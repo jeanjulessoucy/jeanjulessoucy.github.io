@@ -65,9 +65,9 @@ color_settings:
   text_dark_color: '#2A2F36'
   text_medium_color: '#6C7A89'
   text_light_color: '#ABB7B7'
-  accent_color: '#F2784B'
+  accent_color: '#D64541'
   border_color: '#dddddd'
-  overlay_background_color: '#F2784B'
+  overlay_background_color: '#D64541'
   overlay_text_color: '#ffffff'
   overlay_accent_color: '#2A2F36'
   error_color: '#D64541'
@@ -77,7 +77,7 @@ font_settings:
   title_font: '"Muli", sans-serif'
   body_font: '"Muli", sans-serif'
   regular_weight: 400
-  bold_weight: 600
+  bold_weight: 700
   site_title:
     small_size: 25
     medium_size: 30
