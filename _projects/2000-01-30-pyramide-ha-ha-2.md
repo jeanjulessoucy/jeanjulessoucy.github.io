@@ -6,4 +6,4 @@ featured_image: '/images/12a_SoucyJJ_PyramideHaHa.jpg'
 
 ![](/images/12a_SoucyJJ_PyramideHaHa.jpg)
 
-Jean-Jules Soucy, « Pyramide des Ha! Ha! », 2000, installation permanente, Baie des Ha! Ha!, arrondissement de La Baie, Ville de Saguenay.
+Jean-Jules Soucy, « Pyramide des Ha! Ha! », 2000, installation permanente, Baie des Ha! Ha!, arrondissement de La Baie, Ville de Saguenay. Crédit photo. : Droits réservés. Aucune reproduction publique sans autorisation préalable.

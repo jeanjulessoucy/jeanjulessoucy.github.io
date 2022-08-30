@@ -6,7 +6,13 @@ title: Parutions
 
 Par ordre chronologique décroissant
 
-
+- Le Quotidien (Saguenay), Opinions, « L'oeil de Lacroix », Caricature, Mario Lacroix, 23 juillet 2022 [lien web](https://www.lequotidien.com/2022/07/23/loeil-de-lacroix-4e3225f6d440854b1b0cca6926fa82b2)
+- ICI Radio-Canada radio (Saguenay–Lac-Saint-Jean), émission C'est jamais pareil, animateur : Frédéric Tremblay, « Entrevue avec Guylaine Simard », directrice générale du Musée du Fjord, « Entrevue avec Mathieu Valade », 21 juillet 2022, 7 et 8 min.
+- Le Quotidien (Saguenay), ARTS, « Ainsi, la Terre a un Soucy de moins », Emmanuel Galland, 21 juillet 2022 (photo), repris par Le Soleil [lien web](https://www.lequotidien.com/2022/07/21/ainsi-la-terre-a-un-soucy-de-moins-a6fc4bb22f236015c7ea1b1f26d4281b)
+- Le Quotidien (Saguenay), « Jean-Jules Soucy: une oeuvre dont la portée est universelle » [VIDÉOS], Daniel Côté, 21 juillet 2022 (photo) [lien web](https://www.lequotidien.com/2022/07/21/jean-jules-soucy-une-oeuvre-dont-la-portee-est-universelle-videos-4b95ca5c2aa08b0e2a946c6540d6859c?fbclid=IwAR0Vr2m2g3DAS6abDvl5l0pvtKwqkvQOXsAcmndHQnWnPQFTVtHp0YniiLw)
+- Le Quotidien (Saguenay), « Les adieux sereins de l'unique Jean-Jules Soucy » [PHOTOS + VIDÉO], Daniel Côté, 21 juillet 2022 (photo) [lien web](https://www.lequotidien.com/2022/07/21/les-adieux-sereins-de-lunique-jean-jules-soucy-photos--video-1d499fd3af795c8a9115d619c41f4642)
+- Le Quotidien (Saguenay), « Démarche, un texte de Jean-Jules Soucy écrit en 2016 » (photo) [lien web](https://www.lequotidien.com/2022/07/21/demarche-un-texte-de-jean-jules-soucy-ecrit-en-2016-4a5e2df14fd446e30c2b381d29204633)
+- ICI Radio-Canada, site web, ARTS, « L’artiste baieriverain Jean-Jules Soucy n’est plus », Catherine Paradis, 20 juillet 2022 (photo) [lien web](https://ici.radio-canada.ca/nouvelle/1899677/deces-mort-artiste-pyramide-la-baie?fbclid=IwAR1q_94fLwBpeGvM0mFUaXv91k4ZURZvUjZ-aw2SkgmCz1GZipKmCOdhAa4)
 - Narcity, Choses à faire, « 31 endroits secrets où amener ta blonde cet été au Québec – Ta bucket list pour l'été 2019! », Véronique Béland, 2018 (?) [lien Web](https://www.narcity.com/choses-a-faire/ca/qc/montreal/31-endroits-secrets-ou-amener-ta-blonde-ce-printemps-au-quebec)
 - Le Devoir, Opinion/Idées, « La fin du Symposium René-Derouin? », Pierre Nepveu, Écrivain, avec la collaboration de Michel Gonneville, compositeur, 4 février 2016 (1 image – Jean-Jules Soucy, œuvre : « Notes », 2011) [lien Web](https://www.ledevoir.com/opinion/idees/461983/val-david-la-fin-du-symposium-rene-derouin)
 - La Presse, « Le Saguenay-Lac-Saint-Jean vu par... Sébastien Pilote », Marie-Ève Morasse, 15 juillet 2015 [lien Web](https://www.lapresse.ca/voyage/destinations/quebec/saguenay-lac-saint-jean/201507/15/01-4885732-le-saguenay-lac-saint-jean-vu-par-sebastien-pilote.php)

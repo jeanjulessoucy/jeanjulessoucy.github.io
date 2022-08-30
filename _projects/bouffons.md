@@ -6,4 +6,4 @@ featured_image: '/images/06a_SoucyJJ_Bouffons_expoVanites_1997_GalerieUQAM_siteW
 
 ![](/images/06a_SoucyJJ_Bouffons_expoVanites_1997_GalerieUQAM_siteWeb_1053x704.jpg)
 
-Jean-Jules Soucy, « Bouffons », 1995, détail, installation, assemblage, techniques mixtes, environ 250 pâtisseries réunies et disposées sur une table ; nappes, couverts, bougies, nappes, couverts, exposition solo BouffonS, Centre national d’exposition – CNE, Jonquière (Saguenay).
+Jean-Jules Soucy, « Bouffons », 1995, détail, installation, assemblage, techniques mixtes, environ 250 pâtisseries réunies et disposées sur une table ; nappes, couverts, bougies, nappes, couverts, exposition solo BouffonS, Centre national d’exposition – CNE, Jonquière (Saguenay). Crédit photo. : Droits réservés. Aucune reproduction publique sans autorisation préalable.

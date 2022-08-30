@@ -6,4 +6,4 @@ featured_image: '/images/09a_SoucyJJ_smoKING_CAN_KILL_YOU.jpg'
 
 ![](/images/09a_SoucyJJ_smoKING_CAN_KILL_YOU.jpg)
 
-Jean-Jules Soucy, « king can kill you », 2008, impression numérique, Séquence, Chicoutimi (Saguenay).
+Jean-Jules Soucy, « king can kill you », 2008, impression numérique, Séquence, Chicoutimi (Saguenay). Crédit photo. : Droits réservés. Aucune reproduction publique sans autorisation préalable.

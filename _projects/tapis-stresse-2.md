@@ -6,4 +6,4 @@ featured_image: '/images/05b_SoucyJeanJules_Loeuvre_pinte_projet_de_1_1993.jpg'
 
 ![](/images/05b_SoucyJeanJules_Loeuvre_pinte_projet_de_1_1993.jpg)
 
-Jean-Jules Soucy, « Tapis stressé », détail, extrait de l’exposition solo L’Oeuvre pinte, Musée d’art contemporain de Montréal, Montréal, Québec – commissaire : Réal Lussier.
+Jean-Jules Soucy, « Tapis stressé », détail, extrait de l’exposition solo L’Oeuvre pinte, Musée d’art contemporain de Montréal, Montréal, Québec – commissaire : Réal Lussier. Crédit photo. : Droits réservés. Aucune reproduction publique sans autorisation préalable.

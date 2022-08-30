@@ -6,4 +6,4 @@ featured_image: '/images/08a_SoucyJJ_Darfour.jpg'
 
 ![](/images/08a_SoucyJJ_Darfour.jpg)
 
-Jean-Jules Soucy, « L’œuvre d’art fourre », 2009, impression numérique, Le Lieu, Québec.
+Jean-Jules Soucy, « L’œuvre d’art fourre », 2009, impression numérique, Le Lieu, Québec. Crédit photo. : Droits réservés. Aucune reproduction publique sans autorisation préalable.

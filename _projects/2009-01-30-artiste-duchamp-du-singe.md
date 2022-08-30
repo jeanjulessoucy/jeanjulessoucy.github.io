@@ -6,4 +6,4 @@ featured_image: '/images/03_SoucyJJ_2009_Lartiste_Duchamp_du_singe_du_singe_du_s
 
 ![](/images/03_SoucyJJ_2009_Lartiste_Duchamp_du_singe_du_singe_du_seing.jpg)
 
-« L’artiste Duchamp du signe (1) », « L’artiste Duchamp du singe (2) », « L’artiste Duchamp du seing (3) »,2009, triptyque, impressions numériques.
+« L’artiste Duchamp du signe (1) », « L’artiste Duchamp du singe (2) », « L’artiste Duchamp du seing (3) »,2009, triptyque, impressions numériques. Crédit photo. : Droits réservés. Aucune reproduction publique sans autorisation préalable. Crédit photo. : Droits réservés. Aucune reproduction publique sans autorisation préalable.
