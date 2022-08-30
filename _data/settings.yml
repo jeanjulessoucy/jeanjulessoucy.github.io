@@ -15,7 +15,7 @@ menu_settings:
       url: '/film-video'
     - title: 'CV'
       url: '/cv'
-    - title: 'Bio & démarche'
+    - title: 'Bio'
       url: '/bio-demarche'
     - title: 'Contact'
       url: '/contact'
